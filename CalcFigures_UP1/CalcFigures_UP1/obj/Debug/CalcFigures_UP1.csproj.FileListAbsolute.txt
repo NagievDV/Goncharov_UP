@@ -1,0 +1,15 @@
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\bin\Debug\CalcFigures_UP1.exe.config
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\bin\Debug\CalcFigures_UP1.exe
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\bin\Debug\CalcFigures_UP1.pdb
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.csproj.AssemblyReference.cache
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\MainWindow.g.cs
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\App.g.cs
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1_MarkupCompile.cache
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1_MarkupCompile.lref
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\MainWindow.baml
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.g.resources
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.Properties.Resources.resources
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.csproj.GenerateResource.cache
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.csproj.CoreCompileInputs.cache
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.exe
+C:\Users\217042\Desktop\GonchaovDV_UP\CalcFigures_UP1\CalcFigures_UP1\obj\Debug\CalcFigures_UP1.pdb
